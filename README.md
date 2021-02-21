@@ -9,6 +9,7 @@ EvoK consists of a pair of wearable prototype devices (i.e., sender and receiver
 
 When the sender’s heart rate is below 60 beats per minute (bpm), the light notification on the wristband would be blue. When the heart rate is between 60bpm and 100bpm, the light would turn green. When the heart rate is beyond 100 bpm, the light would turn red, accompanied by a beep sound. Additionally, to provide more flexibility, the receiver could control whether to receive the data or not by pressing the left button A, on the wristband. They could press the left button on the micro: bit to stop and resume receiving the data and feedback. 
 
+![Notification Logic](https://drive.google.com/file/d/1996NXev8byy-ij7Yt3PH6xPQf_tSyN1X/view?usp=sharing)
 
 ### Acknowledgement
 The sender implementation uses https://github.com/JanTadeuszEkiel/homelab to calculate the heart rate from the pulse.

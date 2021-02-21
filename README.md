@@ -7,6 +7,7 @@ EvoK consists of a pair of wearable prototype devices (i.e., sender and receiver
 ### Receiver Code
 > Open this page at [https://eshashandilya.github.io/evokreceiver/](https://eshashandilya.github.io/evokreceiver/)
 
+When the sender’s heart rate is below 60 beats per minute (bpm), the light notification on the wristband would be blue. When the heart rate is between 60bpm and 100bpm, the light would turn green. When the heart rate is beyond 100 bpm, the light would turn red, accompanied by a beep sound. Additionally, to provide more flexibility, the receiver could control whether to receive the data or not by pressing the left button A, on the wristband. They could press the left button on the micro: bit to stop and resume receiving the data and feedback. 
 
 
 ### Acknowledgement

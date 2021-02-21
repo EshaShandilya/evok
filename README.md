@@ -20,3 +20,4 @@ Three ranges of heart rate with corresponding feedback: Blue LED represents less
 
 ### Acknowledgement
 The sender implementation uses https://github.com/JanTadeuszEkiel/homelab to calculate the heart rate from the pulse.
+The project was in collaboration with two HCI students Yiwen Wang and Xuan Zhao, and Professor Dr. Mingming Fan.
